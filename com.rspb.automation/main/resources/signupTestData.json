@@ -1,0 +1,29 @@
+﻿{
+    "SuccsefulUserRegistration": {
+        "email": "swetha014@gmail.com",
+        "password": "Abcd@2324",
+        "title": "Mrs",
+        "firstName": "Swetha",
+        "lastName": "Kasireddy",
+        "phoneNumber": "07466636956",
+        "mobileNumber": "",
+        "postcode": "MK4 4DB"
+    },
+
+    "UnSuccsefulUserRegistration": {
+        "email": "swetha014@gmail.com",
+        "password": "Abcd@2324",
+        "title": "Mrs",
+        "firstName": "Swetha",
+        "lastName": "Kasireddy",
+        "phoneNumber": "07466636956",
+        "mobileNumber": "",
+        "postcode": "MK4 4B"
+    },
+
+    "TestCase 3": {
+        "email": "hbvfghh@.com"
+    }
+
+
+}

@@ -1,0 +1,12 @@
+{
+  "SuccessfulUserLogin": {
+    "email": "testrspb2@gmail.com",
+    "password": "Password1"
+  },
+
+  "UnSuccessfulUserLogin": {
+    "email": "swetha014@gmail.com",
+    "password": "Abcd@2324"   
+  } 
+
+}
